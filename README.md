@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm **Farhan**
 #####  A website without JavaScript is like a car without wheels.
-![ A website without JavaScript is like a car without wheels.](https://media.licdn.com/dms/image/C4E03AQG-r_ZGa2hWyw/profile-displayphoto-shrink_800_800/0/1647200815648?e=1689811200&v=beta&t=TGZYsN9jIoJMlJ3MglifVw22HYweTsthORYMdfKUJLY)
+![ A website without JavaScript is like a car without wheels.]
 
 
 
-With a passion for designing and implementing modern and responsive user interfaces, I am constantly staying up-to-date with the latest web technologies to deliver high-quality, dynamic web experiences to users.
+
 
 
 Skills:  **REACT / JS / HTML / CSS / BOOTSTRAP**
