@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm **Farhan**
-#####  A website without JavaScript is like a car without wheels.
 ![ A website without JavaScript is like a car without wheels.]
 
 
